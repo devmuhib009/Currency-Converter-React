@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Project Demo URL](https://react-basic-currency-converter-app.netlify.app/)
 
 ## Available Scripts
 
